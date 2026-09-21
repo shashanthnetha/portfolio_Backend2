@@ -1,0 +1,24 @@
+# Dependencies
+node_modules
+.pnp
+.pnp.js
+
+# Build outputs
+dist
+dist-ssr
+*.local
+
+# System & IDE
+.DS_Store
+*.log
+.agents
+skills-lock.json
+
+# Scratch & temporary artifacts
+test_*.py
+test_*.js
+search_*.py
+figma_grep.txt
+/sublevel-studio-landing-page.json
+/sublevel-studio.html
+kinext
