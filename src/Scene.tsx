@@ -15,7 +15,7 @@ export function SublevelStudioLandingPage() {
     >
       <iframe
         title="Shashanth Pittala — AI & Systems Engineer"
-        src="/landing-pages/sublevel-studio.html"
+        src="./landing-pages/sublevel-studio.html"
         sandbox="allow-downloads allow-forms allow-modals allow-popups allow-same-origin allow-scripts"
         loading="eager"
         style={{
