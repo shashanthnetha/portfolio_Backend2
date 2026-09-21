@@ -1,5 +1,5 @@
 {
-  "name": "sublevel-studio-app",
+  "name": "shashanth-portfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -7,11 +7,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@designcodeio/threeui": "^1.2.0",
-    "css-select": "^7.0.0",
-    "css-tree": "^3.2.1",
-    "domutils": "^4.0.2",
-    "htmlparser2": "^12.0.0",
     "react": "^19.3.0",
     "react-dom": "^19.3.0"
   },
